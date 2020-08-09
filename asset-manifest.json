@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/truckhome/static/css/main.8b076cef.chunk.css",
+    "main.js": "/truckhome/static/js/main.05ff4527.chunk.js",
+    "main.js.map": "/truckhome/static/js/main.05ff4527.chunk.js.map",
+    "runtime-main.js": "/truckhome/static/js/runtime-main.f17e446b.js",
+    "runtime-main.js.map": "/truckhome/static/js/runtime-main.f17e446b.js.map",
+    "static/css/2.11829350.chunk.css": "/truckhome/static/css/2.11829350.chunk.css",
+    "static/js/2.ee436aa6.chunk.js": "/truckhome/static/js/2.ee436aa6.chunk.js",
+    "static/js/2.ee436aa6.chunk.js.map": "/truckhome/static/js/2.ee436aa6.chunk.js.map",
+    "index.html": "/truckhome/index.html",
+    "precache-manifest.571877df38330ce28042d07e631d82d9.js": "/truckhome/precache-manifest.571877df38330ce28042d07e631d82d9.js",
+    "service-worker.js": "/truckhome/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/truckhome/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8b076cef.chunk.css.map": "/truckhome/static/css/main.8b076cef.chunk.css.map",
+    "static/js/2.ee436aa6.chunk.js.LICENSE.txt": "/truckhome/static/js/2.ee436aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f17e446b.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.ee436aa6.chunk.js",
+    "static/css/main.8b076cef.chunk.css",
+    "static/js/main.05ff4527.chunk.js"
+  ]
+}
